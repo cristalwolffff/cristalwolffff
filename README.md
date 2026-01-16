@@ -38,11 +38,6 @@ I am a **Senior Technologist** with over 17 years of market experience, transiti
 
 ---
 
-### 📊 GitHub Stats
-![Cristalwolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=@cristalwolffff&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ### 📫 Let's Connect
 I am open to **B2B Contracts** and **Enterprise Projects**.
 
