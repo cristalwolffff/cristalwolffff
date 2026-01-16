@@ -39,7 +39,7 @@ I am a **Senior Technologist** with over 17 years of market experience, transiti
 ---
 
 ### 📊 GitHub Stats
-![Cristalwolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true)
+![Cristalwolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=@cristalwolffff&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
